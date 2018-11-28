@@ -5,7 +5,7 @@
 ```bash
 id -u flag00 # == 999
 ```
-[find uid from username](https://kb.iu.edu/d/adwf)
+- [find uid from username](https://kb.iu.edu/d/adwf)
 
 ### To find files linked to UID:
 
@@ -15,7 +15,7 @@ find <name_of_directory> -uid 999
 
 ```
 
-[find files linked to UID](https://www.unixtutorial.org/find-files-which-belong-to-a-user-or-unix-group/)
+- [find files linked to UID](https://www.unixtutorial.org/find-files-which-belong-to-a-user-or-unix-group/)
 
 ### To find only executable files:
 
